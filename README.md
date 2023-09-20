@@ -1,5 +1,4 @@
 # Androidexamples
 This is for classroom example for students
-
-A very Basic calexample created June 22 
+Example for students using intent, listViews, Adapter and creating a drink class
 
